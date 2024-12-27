@@ -34,4 +34,4 @@ if (personAge >= 18) {
 let x = 5;
 let y = 2;
 let z = x % y;
-console.log(z);
+console.log(z, "zz");
