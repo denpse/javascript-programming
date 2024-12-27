@@ -36,7 +36,7 @@ if (personAge >= 18) {
 //show in console
 let x = 5;
 let y = 2;
-let z = a % b;
+let z = x % y;
 
 console.log(z);
-// The result of z is 0 beacuse the variable a is not defined within the scope of the selected lines.
+// The result of z is 1 beacuse 5 % 2 = 1
